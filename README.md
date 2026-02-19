@@ -1,1 +1,1 @@
-# vae-anomaly-detection
+Variational Autoencoder (VAE) for High-Dimensional Anomaly Detection
